@@ -9,8 +9,7 @@ Code ref for the Library
 Based Implementation : - https://www.freecodecamp.org/news/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159/
 
 Dataset : - https://www.kaggle.com/c/zillow-prize-1/data
-
-All Libraries Used : Pandas, Numpy, Tensorflow, Keras, Scikit-Learn
+Pandas, Numpy, Tensorflow, Keras, Scikit-Learn
 
 
 
