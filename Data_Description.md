@@ -1,4 +1,4 @@
-#Background
+Background:
 
 The dataset considered consists of 11 columns. The parent dataset is attached in README.md,
 The dataset we are working with is an extract of the parent dataset, after one-hot encoding.
@@ -10,7 +10,7 @@ Note - Median Value is pre-processed
 
 
 
-#Columns [Factors to Consider]
+Columns [Factors to Consider]:
 
 Total = 10
 
@@ -26,6 +26,4 @@ Total = 10
 10) GarageArea - in Sqft
 
 
-#Above Median Price
-
-0 if not, 1 if it is.
+Above Median Price : 0 if not, 1 if it is.
